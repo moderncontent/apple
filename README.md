@@ -1,2 +1,2 @@
-# apple
+# Project Apple
 Learning git.
